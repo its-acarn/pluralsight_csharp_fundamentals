@@ -1,0 +1,16 @@
+C:\users\AndrewCarnaghan.AzureAD\dev\learnC#\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.exe
+C:\users\AndrewCarnaghan.AzureAD\dev\learnC#\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.deps.json
+C:\users\AndrewCarnaghan.AzureAD\dev\learnC#\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.runtimeconfig.json
+C:\users\AndrewCarnaghan.AzureAD\dev\learnC#\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.runtimeconfig.dev.json
+C:\users\AndrewCarnaghan.AzureAD\dev\learnC#\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.dll
+C:\users\AndrewCarnaghan.AzureAD\dev\learnC#\gradebook\src\GradeBook\bin\Debug\net5.0\ref\GradeBook.dll
+C:\users\AndrewCarnaghan.AzureAD\dev\learnC#\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.pdb
+C:\users\AndrewCarnaghan.AzureAD\dev\learnC#\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.csprojAssemblyReference.cache
+C:\users\AndrewCarnaghan.AzureAD\dev\learnC#\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\AndrewCarnaghan.AzureAD\dev\learnC#\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.AssemblyInfoInputs.cache
+C:\users\AndrewCarnaghan.AzureAD\dev\learnC#\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.AssemblyInfo.cs
+C:\users\AndrewCarnaghan.AzureAD\dev\learnC#\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\users\AndrewCarnaghan.AzureAD\dev\learnC#\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.dll
+C:\users\AndrewCarnaghan.AzureAD\dev\learnC#\gradebook\src\GradeBook\obj\Debug\net5.0\ref\GradeBook.dll
+C:\users\AndrewCarnaghan.AzureAD\dev\learnC#\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.pdb
+C:\users\AndrewCarnaghan.AzureAD\dev\learnC#\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.genruntimeconfig.cache

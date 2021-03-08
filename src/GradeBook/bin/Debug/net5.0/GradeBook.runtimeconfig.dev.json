@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\AndrewCarnaghan.AzureAD\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\AndrewCarnaghan.AzureAD\\.nuget\\packages"
+    ]
+  }
+}
